@@ -1,2 +1,2 @@
 #!/bibn/bash
-echo {a..z} | tr ' ' '\n' | grep
+echo {a..z}{a..z} | tr ' ' '\n' | grep
